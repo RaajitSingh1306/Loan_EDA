@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Credit Default Predictor
 
 A full end-to-end ML project that predicts whether a loan applicant will default, with a REST API and interactive UI.
